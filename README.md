@@ -11,7 +11,7 @@
 ### Install python:
 ```sh
 # Base python environment
-conda create -f env.yaml
+conda env create -f env.yaml
 # Activate environment
 conda activate ldm-xformers
 ```
